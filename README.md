@@ -1,4 +1,4 @@
-# Pikachu Finance Frontend
+# Milking Parlour Frontend
 
 This project contains the main features of the pikachudefi application.
 

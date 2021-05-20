@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.pikachudefi.com/',
+        href: 'https://https://exchange.pancakeswap.finance/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.pikachudefi.com/#/pool',
+        href: 'https://https://exchange.pancakeswap.finance/#/pool',
       },
     ],
   },
@@ -73,11 +73,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/PikachuDefi/',
+        href: 'https://github.com/DefiCashCow/',
       },
       {
         label: 'Wiki',
-        href: 'https://github.com/PikachuDefi/pikachu-contracts/wiki',
+        href: 'https://github.com/DefiCashCow/farm-contracts/wiki',
       },
       // {
       //   label: 'Blog',

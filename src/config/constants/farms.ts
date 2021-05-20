@@ -5,7 +5,7 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'PIKACHU-BUSD LP',
+    lpSymbol: 'MILK-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0x45b604027262cca499519ef66ed768c43211e0cf',
@@ -21,7 +21,7 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'PIKACHU-BNB LP',
+    lpSymbol: 'MILK-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x5c2e3fde2a19abb72f6d43d9a8c0940f7d89af20',
@@ -198,10 +198,10 @@ const farms: FarmConfig[] = [
     pid: 12,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'PIKACHU',
+    lpSymbol: 'MILK',
     lpAddresses: {
       97: '',
-      56: '0x45b604027262cca499519ef66ed768c43211e0cf', // PIKACHU-BUSD LP
+      56: '0x45b604027262cca499519ef66ed768c43211e0cf', // MILK-BUSD LP
     },
     tokenSymbol: 'EGG',
     tokenAddresses: {
@@ -218,7 +218,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '0x45b604027262cca499519ef66ed768c43211e0cf', // PIKACHU-BUSD LP (BUSD-BUSD will ignore)
+      56: '0x45b604027262cca499519ef66ed768c43211e0cf', // MILK-BUSD LP (BUSD-BUSD will ignore)
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {
